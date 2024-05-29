@@ -1,0 +1,21 @@
+.nodes-panel {
+  width: 200px;
+  background: #f7f7f7;
+  border-right: 1px solid #ddd;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.dndnode {
+  padding: 10px;
+  margin-bottom: 10px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.dndnode:hover {
+  background-color: #e0e0e0;
+}
